@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![welcomeGif](https://github.com/camsmy/camsmy/blob/main/Vanilla-1.4s-280px.gif)
 <!--
 **camsmy/camsmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
