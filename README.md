@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 <!-- ![welcomeGif](https://github.com/camsmy/camsmy/blob/main/Vanilla-1.4s-280px.gif) -->
 <h1 align="center">Hi 👋, I'm Camille Monis</h1>
 <h3 align="center">An enthusiastic and passionate Frontend Developer seeking opportunities. I can help companies reach their goals by connecting all dots between design and code. Always open to learning new technologies and sharing ideas with other people.</h3>
