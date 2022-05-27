@@ -10,7 +10,6 @@
 
 - 👯 I’m looking to collaborate on **different projects related to Javascript.**
 
-- 📫 How to reach me **camille.monis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
